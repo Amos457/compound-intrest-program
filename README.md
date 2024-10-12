@@ -1,1 +1,0 @@
-# compound-intrest-program
